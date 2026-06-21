@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+.DS_Store
+*.local
+.vite
+coverage
+
+# ローカルツール設定（コミットしない）
+.claude/
+.serena/
